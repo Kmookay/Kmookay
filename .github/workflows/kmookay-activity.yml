@@ -1,0 +1,21 @@
+name: Update README with recent activity
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # 每小时更新一次，你也可以改为 "0 2 * * *" 每天凌晨2点更新
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Recent GitHub Activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: kmookay
+          MAX_LINES: 5
+          COMMIT_MESSAGE: "📌 更新最近活动"
