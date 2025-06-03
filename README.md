@@ -50,11 +50,13 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmookay&layout=compact&hide=css,html&theme=radical" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmookay&theme=radical" />
-</p>
 
 ---
+
+## 📌 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 📬 Contact
 
