@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm kmookay 👋</h1>
+<h1 align="center">Hi, I'm yirik 👋</h1>
 
 <p align="center">
   Full-Stack Engineer · Crypto & AI Builder · Quant Curious
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmookay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yirik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/🧠-Full%20Stack%20Engineer-brightgreen" />
   <img src="https://img.shields.io/badge/🪙-Crypto%20%26%20Web3-orange" />
   <img src="https://img.shields.io/badge/🤖-AI%20%2B%20Quant%20Trading-blueviolet" />
@@ -60,7 +60,7 @@
 
 ## 📬 Contact
 
-- Email：kmookay.xiong@gmail.com
+- Email：yirik.xiong@gmail.com
 - Telegram（私聊可提供）
 
 ---
