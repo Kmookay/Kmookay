@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm yirik 👋</h1>
+<h1 align="center">Hi, I'm Kmookay 👋</h1>
 
 <p align="center">
   Full-Stack Engineer · Crypto & AI Builder · Quant Curious
