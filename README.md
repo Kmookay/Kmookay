@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yirik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kmookay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/🧠-Full%20Stack%20Engineer-brightgreen" />
   <img src="https://img.shields.io/badge/🪙-Crypto%20%26%20Web3-orange" />
   <img src="https://img.shields.io/badge/🤖-AI%20%2B%20Quant%20Trading-blueviolet" />
 </p>
 
 ---
+![ChatGPT Image 2025年5月29日 21_06_24](https://github.com/user-attachments/assets/5ea3a5cb-6b66-4030-9409-5e941073839d)
 
 ## 🧠 About Me
 
@@ -58,7 +59,7 @@
 
 ## 📬 Contact
 
-- Email：yirik.xiong@gmail.com
+- Email：kmookay.xiong@gmail.com
 - Telegram（私聊可提供）
 
 ---
